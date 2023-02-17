@@ -1,0 +1,35 @@
+body {
+    font-family: 'Tourney', cursive;
+    background-image: url("blackjack.jpg");
+    background-size: cover;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: darkred;
+}
+
+#message-el{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+
+button{
+    color: darkred;
+    width: 200px;
+    background: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Tourney', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
